@@ -1,0 +1,11 @@
+body {
+	background-color: orange;
+}
+
+a:link {
+	color: blue;
+}
+
+a:hover {
+	color: yellow;
+}
